@@ -1,0 +1,92 @@
+[
+{
+	"uri": "https://www.deployview.com/solutions/drupal-hosting/",
+	"title": "Drupal Hosting",
+	"tags": ["php", "devops", "drupal", "cms", "aws", "hosting"],
+	"description": "",
+	"content": " Introduction This is a reference architecture for deploying Drupal on AWS using Amazon Virtual Private Cloud (Amazon VPC), Amazon Elastic Compute Cloud (Amazon EC2), Auto Scaling, Elastic Load Balancing (Application Load Balancer), Amazon Relational Database Service (Amazon RDS), Amazon ElastiCache, Amazon Elastic File System (Amazon EFS), Amazon CloudFront, Amazon Route 53, Amazon Certificate Manager (Amazon ACM) with AWS CloudFormation.\n"
+},
+{
+	"uri": "https://www.deployview.com/tags/aws/",
+	"title": "Aws",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/tags/cms/",
+	"title": "Cms",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/tags/devops/",
+	"title": "Devops",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/tags/drupal/",
+	"title": "Drupal",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "From Idea To Production IDEA - ISSUE - PLAN - CODE - COMMIT - TEST - REVIEW - STAGING - PRODUCTION - FEEDBACK\nDeployView Limited provides a broad range of services, solutions and best practices to help you turning your IT department into a coherent, agile unit that can always meet business demands. Run your IT as a business with highly automated processes that lower your costs, reduce your risks and enable rapid adoption of future IT trends.\nFor questions please do not hesitate to contact us at hello@deployview.com, or call us at +44(0)7419872692.\n"
+},
+{
+	"uri": "https://www.deployview.com/tags/hosting/",
+	"title": "Hosting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/tags/php/",
+	"title": "Php",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/solutions/",
+	"title": "Solutions",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/tags/wordpress/",
+	"title": "Wordpress",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://www.deployview.com/solutions/wordpress-hosting/",
+	"title": "Wordpress Hosting",
+	"tags": ["php", "devops", "wordpress", "cms", "aws", "hosting"],
+	"description": "",
+	"content": "This is a reference architecture for deploying WordPress on AWS using Amazon Virtual Private Cloud (Amazon VPC), Amazon Elastic Compute Cloud (Amazon EC2), Auto Scaling, Elastic Load Balancing (Application Load Balancer), Amazon Relational Database Service (Amazon RDS), Amazon ElastiCache, Amazon Elastic File System (Amazon EFS), Amazon CloudFront, Amazon Route 53, Amazon Certificate Manager (Amazon ACM) with AWS CloudFormation.\n"
+}]
