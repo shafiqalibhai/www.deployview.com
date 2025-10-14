@@ -6,7 +6,7 @@ title: DeployView Limited
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://property.deployview.com">
   Real Estate
 </a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="https://agile.deployview.com">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://manage.deployview.com">
   Agile
 </a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://linux.deployview.com">
